@@ -1,7 +1,7 @@
 {
   "commitMessage": "\"\\\"{{date}} - {{numFiles}} files changed\\\"\"",
   "autoCommitMessage": "vault backup: {{date}}",
-  "commitMessageScript": "",
+  "commitMessageScript": "\"\\\"{{date}} - {{numFiles}} files changed\\\"\"",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
@@ -13,7 +13,7 @@
   "disablePopups": false,
   "showErrorNotices": true,
   "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
