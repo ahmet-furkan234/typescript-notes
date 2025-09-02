@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Capitalize & Uncapitalize"
             }
+          },
+          {
+            "id": "7fbe8fd61ad5d124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,13 +163,23 @@
               "icon": "lucide-list",
               "title": "Anahat"
             }
+          },
+          {
+            "id": "d30e520ea5fa0464",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +191,15 @@
       "templates:Şablon ekle": false,
       "command-palette:Komut paletini aç": false,
       "markdown-importer:Markdown yükleyicisini aç": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5b6e48eda011927",
+  "active": "7fbe8fd61ad5d124",
   "lastOpenFiles": [
-    "Utily-Types/Uppercase & Lowercase.md",
     "Utily-Types/Capitalize & Uncapitalize.md",
+    "git test.md",
+    "Utily-Types/Uppercase & Lowercase.md",
     "Utily-Types/Awaited.md",
     "Utily-Types/InstanceType.md",
     "Utily-Types/ReturnType.md",
@@ -197,7 +224,6 @@
     "TypeScript – Using Type Definitions with JavaScript Libraries (@types).md",
     "TypeScript – JavaScript Interoperability.md",
     "Class/Static Members.md",
-    "Class/Property Overloading (Getter - Setter).md",
     "Class",
     "Interface",
     "Functions",
