@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utily-Types/Deep Partial.md",
+                "file": "Utily-Types/Record.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Partial"
+              "title": "Record"
             }
           }
         ]
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +182,7 @@
   },
   "active": "9656ba0a6bc28624",
   "lastOpenFiles": [
+    "Utily-Types/Readonly.md",
     "Utily-Types/Deep Partial.md",
     "Utily-Types/Capitalize & Uncapitalize.md",
     "git test.md",
@@ -197,7 +197,6 @@
     "Utily-Types/Exclude.md",
     "Utily-Types/Required.md",
     "Utily-Types/Record.md",
-    "Utily-Types/Readonly.md",
     "Utily-Types/Pick.md",
     "Utily-Types/Partial.md",
     "Utily-Types/Omit.md",
