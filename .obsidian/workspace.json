@@ -192,6 +192,8 @@
   },
   "active": "7ce3dd06c2cb5399",
   "lastOpenFiles": [
+    "Type Guards/instanceof operator.md",
+    "Type Guards/Equality.md",
     "Type Guards/Type Guards.md",
     "Type Guards/Truthiness.md",
     "Type Guards/Başlıksız 3.md",
@@ -217,8 +219,6 @@
     "Utily-Types/NonNullable.md",
     "Utily-Types/Extract.md",
     "Utily-Types/Exclude.md",
-    "Utily-Types/Required.md",
-    "Utily-Types/Pick.md",
     "Utily-Types",
     "Class",
     "Interface",
