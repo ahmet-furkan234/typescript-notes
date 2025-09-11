@@ -4,19 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "04e3de5958040052",
+        "id": "cdf62cff59e2e968",
         "type": "tabs",
         "children": [
           {
-            "id": "9656ba0a6bc28624",
+            "id": "7ce3dd06c2cb5399",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
                 "aFile": ".obsidian/workspace.json",
                 "bFile": ".obsidian/workspace.json",
-                "aRef": "0bdf0229c923fa93d6d76fa73611e6a11e57d281^",
-                "bRef": "0bdf0229c923fa93d6d76fa73611e6a11e57d281"
+                "aRef": ""
               },
               "icon": "diff",
               "title": "Diff: workspace.json"
@@ -191,10 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9656ba0a6bc28624",
+  "active": "7ce3dd06c2cb5399",
   "lastOpenFiles": [
-    "Yeni Metin Belgesi.txt",
+    "Type Guards/Type Guards.md",
+    "Type Guards/Truthiness.md",
     "Type Guards/Başlıksız 3.md",
+    "Type Alias.md",
+    "Type Compatibility.md",
+    "satisfies Keyword.md",
+    "keyof Operator.md",
+    "Install and Configure.md",
+    "Compiler Options.md",
+    "Yeni Metin Belgesi.txt",
     "Utily-Types/Omit.md",
     "Utily-Types/Record.md",
     "Utily-Types/Readonly.md",
@@ -212,14 +219,7 @@
     "Utily-Types/Exclude.md",
     "Utily-Types/Required.md",
     "Utily-Types/Pick.md",
-    "Utily-Types/Partial.md",
-    "Interface/Interface Declaration.md",
     "Utily-Types",
-    "Interface/Types vs Interfaces.md",
-    "Interface/Extending Interfaces.md",
-    "Type Guards/typeof Operator.md",
-    "Type Guards/instanceof operator.md",
-    "TypeScript vs JavaScript.md",
     "Class",
     "Interface",
     "Functions",
@@ -231,7 +231,6 @@
     "ES6/Destructuring.canvas",
     "Operators",
     "Photos/kod4.png",
-    "Untitled",
     "Photos/kod1.png",
     "Başlıksız.canvas",
     "Photos/kod3.png",
