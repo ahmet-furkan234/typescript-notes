@@ -1,0 +1,9 @@
+{
+  "rules": "temp/\n*.tmp\n.DS_Store\nThumbs.db\nworkspace.json\n.gitignore",
+  "ignoredFiles": [],
+  "debug": false,
+  "rulesHistory": [
+    "temp/\n*.tmp\n.DS_Store\nThumbs.db\nworkspace.json\n.gitignore",
+    "temp/\n*.tmp\n.DS_Store\nThumbs.db"
+  ]
+}
