@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf62cff59e2e968",
+        "id": "160f18c671377165",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce3dd06c2cb5399",
+            "id": "303cc1442fdb319d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
             }
           }
         ]
@@ -190,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ce3dd06c2cb5399",
+  "active": "303cc1442fdb319d",
   "lastOpenFiles": [
     "Type Guards/instanceof operator.md",
     "Type Guards/Equality.md",
