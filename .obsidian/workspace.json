@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "160f18c671377165",
+        "id": "ad63d9c12dbd0b52",
         "type": "tabs",
         "children": [
           {
-            "id": "303cc1442fdb319d",
+            "id": "61e277bb1a7c4ce8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303cc1442fdb319d",
+  "active": "1c5fad089b539491",
   "lastOpenFiles": [
     "Type Guards/instanceof operator.md",
     "Type Guards/Equality.md",
