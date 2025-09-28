@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Type Inference.md",
+                "file": "TypeScript – Using Type Definitions with JavaScript Libraries (@types).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type Inference"
+              "title": "TypeScript – Using Type Definitions with JavaScript Libraries (@types)"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "6b5aa49439f7c600",
   "lastOpenFiles": [
     "TypeScript – JavaScript Interoperability.md",
+    "Type Inference.md",
     "TypeScript – Using Type Definitions with JavaScript Libraries (@types).md",
     "Type Guards/instanceof operator.md",
     "Type Guards/Equality.md",
@@ -219,7 +220,6 @@
     "Utily-Types/ReturnType.md",
     "Utily-Types/ConstructorParameters.md",
     "Utily-Types/Parameters.md",
-    "Utily-Types/NonNullable.md",
     "Utily-Types",
     "Class",
     "Interface",
