@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript – Using Type Definitions with JavaScript Libraries (@types).md",
+                "file": "Type Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript – Using Type Definitions with JavaScript Libraries (@types)"
+              "title": "Type Inference"
             }
           }
         ]
@@ -193,20 +193,23 @@
   },
   "active": "6b5aa49439f7c600",
   "lastOpenFiles": [
-    "TypeScript – JavaScript Interoperability.md",
+    "Type Compatibility.md",
     "Type Inference.md",
+    "Type Assertions.md",
+    "Type Alias.md",
+    "Data Types/Primitive Types.md",
+    "Compiler Options.md",
+    "Data Types/TypeScript – Types.md",
     "TypeScript – Using Type Definitions with JavaScript Libraries (@types).md",
+    "TypeScript – JavaScript Interoperability.md",
     "Type Guards/instanceof operator.md",
     "Type Guards/Equality.md",
     "Type Guards/Type Guards.md",
     "Type Guards/Truthiness.md",
     "Type Guards/Başlıksız 3.md",
-    "Type Alias.md",
-    "Type Compatibility.md",
     "satisfies Keyword.md",
     "keyof Operator.md",
     "Install and Configure.md",
-    "Compiler Options.md",
     "Yeni Metin Belgesi.txt",
     "Utily-Types/Omit.md",
     "Utily-Types/Record.md",
@@ -217,9 +220,6 @@
     "Utily-Types/Uppercase & Lowercase.md",
     "Utily-Types/Awaited.md",
     "Utily-Types/InstanceType.md",
-    "Utily-Types/ReturnType.md",
-    "Utily-Types/ConstructorParameters.md",
-    "Utily-Types/Parameters.md",
     "Utily-Types",
     "Class",
     "Interface",
